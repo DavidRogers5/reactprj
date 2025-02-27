@@ -1,3 +1,6 @@
+#General Description
+Project is an React framework front end application that makes API calls to a Node.js Babel API server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
